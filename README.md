@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachin
-- 👀 I’m a Full Stack Developer and a DevOps Engineer
+- 👀 I’m a DevOps Engineer and a Full Stack Developer 
 - 🌱 I’m currently learning Prometheus and Rediscovering Python
 - 💞️ I’m looking to collaborate on K8s/Docker Images
 - 📫 How to reach me : Email me at : mrsachinpanchal8@gmail.com, Connect on Linkedin : linkedin.com/in/sachinpanchal8
